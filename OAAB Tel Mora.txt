@@ -156,4 +156,4 @@ rotouns help cleaning dialogue
 4.1.0 - Fixed a bug where Endar will not respond properly if the player only has 1 of 2 ingredients in the vampires quest. Added custom greetings to Endar Drenim after he moves to Tel Mora. Added SSQN support. Grammatical and spelling fixes.
 4.1.1 - Fixed duplicated desk and surrounding objects in the Lower Tower. Moved a scale slightly in the Lower Tower for compatibility with Uvirith's Legacy.
 4.1.2 - Fixed missing StartScript which could cause Endar to not move.
-5.0.0 - Converted to ESM for compatibility. Fixed bug where Lette quest could not be completed if you join the Temple. Fixed Chanil-Lee quest not detecting helm properly. Improved journal entries and dialogue during the Illusion of Time quest.
+5.0.0 - Converted to ESM for compatibility. Fixed bug where Lette quest could not be completed if you join the Temple. Fixed Chanil-Lee quest not detecting helm properly. Improved journal entries and dialogue during the Illusion of Time quest. Add achievement support (1 achievement). Add Tooltips Complete support.
